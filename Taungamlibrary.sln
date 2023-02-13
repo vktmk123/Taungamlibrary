@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taungamlibrary", "Taungamlibrary\Taungamlibrary.csproj", "{23F18DF2-D164-4DE3-A7A4-93A0A8B045ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuTau", "MenuTau\MenuTau.csproj", "{26A082D6-9C26-494E-904C-BD97C8BB348F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23F18DF2-D164-4DE3-A7A4-93A0A8B045ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F18DF2-D164-4DE3-A7A4-93A0A8B045ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F18DF2-D164-4DE3-A7A4-93A0A8B045ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F18DF2-D164-4DE3-A7A4-93A0A8B045ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26A082D6-9C26-494E-904C-BD97C8BB348F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26A082D6-9C26-494E-904C-BD97C8BB348F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26A082D6-9C26-494E-904C-BD97C8BB348F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26A082D6-9C26-494E-904C-BD97C8BB348F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B61B7B39-2504-455B-9457-407FD8961469}
+	EndGlobalSection
+EndGlobal
